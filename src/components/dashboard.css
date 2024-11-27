@@ -1,0 +1,104 @@
+General styles
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 2rem;
+  }
+  
+  h4 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #3f51b5;
+    font-weight: bold;
+  }
+  
+  .grid-container {
+    margin-top: 2rem;
+    gap: 2rem;
+  }
+  
+  
+  .table {
+    border-spacing: 0 10px;
+    border-collapse: separate;
+    width: 100%;
+  }
+  
+  .table-head {
+    background-color: #3f51b5 !important;
+  }
+  
+  .table-head-cell {
+    font-weight: bold;
+    text-align: left;
+    color: #ffeb3b !important;
+    font-size: 1.1rem;
+  }
+  
+  .table-body-row {
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+  }
+  
+  .table-body-row:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table-cell {
+    padding: 12px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .add-button {
+    background: #4caf50 !important;
+    color: white !important;
+    margin-bottom: 1.5rem !important; 
+    transition: all 0.3s ease;
+  }
+  
+  .add-button:hover {
+    background: #45a049 !important;
+  }
+  
+  .action-icon {
+    color: #3f51b5 !important;
+  }
+  
+  .action-icon:hover {
+    color: #1a237e !important;
+  }
+  
+ 
+  .dialog-content {
+    padding: 1rem;
+  }
+  
+  .dialog-textfield {
+    margin-bottom: 1rem;
+  }
+  
+  .dialog-actions button {
+    background: #3f51b5 !important;
+    color: white !important;
+  }
+  
+  .dialog-actions button:hover {
+    background: #303f9f !important;
+  }
+  
+  
+  .spacer {
+    height: 3rem;
+  }
+   
+  
+  
+
+    
+

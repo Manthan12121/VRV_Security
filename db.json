@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "role": "Viewer"
+    },
+    {
+      "id": "8458",
+      "name": "Manthan ",
+      "role": "Coder "
+    },
+    {
+      "id": "7982",
+      "name": "Aatreya ",
+      "role": "CTO"
+    }
+  ],
+  "roles": [
+    {
+      "id": "8ede",
+      "name": "Manager",
+      "permissions": "delete,erase"
+    },
+    {
+      "id": "2c6c",
+      "name": "coder",
+      "permissions": "write ,read"
+    },
+    {
+      "id": "4deb",
+      "name": "CTO",
+      "permissions": "read,delete, erase,write"
+    }
+  ]
+}
